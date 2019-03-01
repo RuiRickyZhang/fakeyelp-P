@@ -3,9 +3,12 @@ Code for the Udemy course (https://www.udemy.com/the-web-developer-bootcamp/) pr
 
 You can check the deployed [demo](https://yelpcamp201902.herokuapp.com/) here.
 
-Framework: Express based on Node.js
+Framework: Express based on Node.js 
+
 Database: MongoDB
+
 Deploy Tool: Heroku
+
 Test Tool: PostMan
 
 This site is still under construction.
